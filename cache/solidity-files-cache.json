@@ -1,0 +1,41 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\Aayush\\Downloads\\web3-fundraiser-youtube-main\\web3-fundraiser-youtube-main\\contracts\\Chai.sol": {
+      "lastModificationDate": 1677335179909,
+      "contentHash": "54b1da965474a9de019cad61f4697dfb",
+      "sourceName": "contracts/Chai.sol",
+      "solcConfig": {
+        "version": "0.8.10",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">0.7.0 <=0.9.0"
+      ],
+      "artifacts": [
+        "Chai",
+        "ChaiFactory"
+      ]
+    }
+  }
+}
